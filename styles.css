@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
-    font-family: 'Trebuchet MS', Arial, sans-serif;   
+    font-family: 'Roboto', 'Trebuchet MS', Arial, sans-serif;   
 }
 
 .body {
@@ -12,7 +12,7 @@ body {
     flex: 1;
 }
 
-/* Page sections are numbered 1-4 vertically, top to bottom, followed by the footer */
+/* Page sections are numbered 1-4 vertically top to bottom, followed by the footer */
 
 /*** Section 1 ***/
 
@@ -68,7 +68,7 @@ a {
 .main-text {
     color: #f9faf8;
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 800;
     margin-bottom: 2px;
 }
 
@@ -130,14 +130,31 @@ figure {
 
 .quotes-section {
     background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.quotes-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    align-items: center;
+    margin: 48px;
 }
 
 .quote {
     color: #1f2937;
-    font-weight: light;
+    font-size: 36px;
     font-style: italic;
-    text-align: left;
-    padding: 60px 160px;
+    font-weight: 200;
+    
+}
+
+.quote-attr {
+    display: flex;
+    align-self: flex-end;
+    font-weight: 400;
+
 }
 
 /*** Section 4 ***/
