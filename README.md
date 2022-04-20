@@ -1,7 +1,6 @@
 # Landing Page
 ## Flexbox assignment for The Odin Project
 <br>
-<br>
 This landing page was done as a flexbox exercise for the foundations section of The Odin Project.
 <br>
 <br>
