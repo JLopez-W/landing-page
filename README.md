@@ -1,5 +1,5 @@
-# landing-page
-Flexbox assignment for The Odin Project
+# Landing Page
+## Flexbox assignment for The Odin Project
 <br>
 <br>
 This landing page was done as a flexbox exercise for the foundations section of The Odin Project.
@@ -17,5 +17,5 @@ HTML/CSS.
 All photos included in this project are my own.  © Jessica Lopez
 <br>
 <br>
-See the <a href="https://jlopez-w.github.io/landing-page/"> live link for this page here </a>.
+### See the <a href="https://jlopez-w.github.io/landing-page/"> live link for this page here </a>.
 
